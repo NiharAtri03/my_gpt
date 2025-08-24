@@ -1,0 +1,1 @@
+This project seeks to implement a basic transformer model with RoPE (Rotary Positional Embeddings) for text generation tasks. I used PyTorch to implement the attention mechanism and train the feed-forward networks.
